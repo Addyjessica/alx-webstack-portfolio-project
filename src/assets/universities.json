@@ -1,0 +1,49 @@
+{
+  "knust": {
+    "images": [
+      "https://dsmqijpsxankhunpdzso.supabase.co/storage/v1/object/public/tour-assets/knust1.jpg",
+      "https://dsmqijpsxankhunpdzso.supabase.co/storage/v1/object/public/tour-assets/knust2.jpeg",
+      "https://dsmqijpsxankhunpdzso.supabase.co/storage/v1/object/public/tour-assets/knust3.jpg",
+      "https://dsmqijpsxankhunpdzso.supabase.co/storage/v1/object/public/tour-assets/knust4.jpeg",
+      "https://dsmqijpsxankhunpdzso.supabase.co/storage/v1/object/public/tour-assets/knust5.jpeg",
+      "https://dsmqijpsxankhunpdzso.supabase.co/storage/v1/object/public/tour-assets/knust6.jpg",
+      "https://dsmqijpsxankhunpdzso.supabase.co/storage/v1/object/public/tour-assets/knust7.jpg"
+    ],
+    "videoUrl": "https://youtu.be/QixAdne1y3Y"
+    
+  },
+  "legon": {
+    "images": [
+      "https://dsmqijpsxankhunpdzso.supabase.co/storage/v1/object/public/tour-assets/legon1.jpg",
+      "https://dsmqijpsxankhunpdzso.supabase.co/storage/v1/object/public/tour-assets/legon2.jpg",
+      "https://dsmqijpsxankhunpdzso.supabase.co/storage/v1/object/public/tour-assets/legon3.jpg",
+      "https://dsmqijpsxankhunpdzso.supabase.co/storage/v1/object/public/tour-assets/legon4.jpeg",
+      "https://dsmqijpsxankhunpdzso.supabase.co/storage/v1/object/public/tour-assets/legon5.jpg",
+      "https://dsmqijpsxankhunpdzso.supabase.co/storage/v1/object/public/tour-assets/legon6.jpg"
+    ],
+    "videoUrl": "https://youtu.be/nDQ52NYTZkU"
+  },
+  "ucc": {
+    "images": [
+      "https://dsmqijpsxankhunpdzso.supabase.co/storage/v1/object/public/tour-assets/ucc1.jpg",
+      "https://dsmqijpsxankhunpdzso.supabase.co/storage/v1/object/public/tour-assets/ucc2.jpg",
+      "https://dsmqijpsxankhunpdzso.supabase.co/storage/v1/object/public/tour-assets/ucc3.jpeg",
+      "https://dsmqijpsxankhunpdzso.supabase.co/storage/v1/object/public/tour-assets/ucc4.jpg",
+      "https://dsmqijpsxankhunpdzso.supabase.co/storage/v1/object/public/tour-assets/ucc5.jpg",
+      "https://dsmqijpsxankhunpdzso.supabase.co/storage/v1/object/public/tour-assets/ucc6.jpg"
+    ],
+    "videoUrl": "https://youtu.be/nt76rj4ZsDg"
+  },
+
+  "more": {
+    "images": [
+      "https://dsmqijpsxankhunpdzso.supabase.co/storage/v1/object/public/tour-assets/uew5.jpeg",
+      "https://dsmqijpsxankhunpdzso.supabase.co/storage/v1/object/public/tour-assets/uew3.jpeg",
+      "https://dsmqijpsxankhunpdzso.supabase.co/storage/v1/object/public/tour-assets/uhas1.jpeg",
+      "https://dsmqijpsxankhunpdzso.supabase.co/storage/v1/object/public/tour-assets/uhas3.jpg",
+      "https://dsmqijpsxankhunpdzso.supabase.co/storage/v1/object/public/tour-assets/uds1.jpeg",
+      "https://dsmqijpsxankhunpdzso.supabase.co/storage/v1/object/public/tour-assets/uds2.jpeg"
+    ],
+    "videoUrl": "https://youtu.be/-sVYlo1VpVw"
+  }
+}
