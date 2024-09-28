@@ -58,7 +58,7 @@ const Details = () => {
       <div className="py-12 overflow-y-auto  gap-11 flex flex-col items-center  w-full px-16 h-full ">
         <div className="flex flex-col gap-y-2">
           <span className="text-3xl text-nowrap md:text-5xl font-semibold font-montserrat">
-            welcome to Uniguide!
+            welcome to StudyStream!
           </span>
           <span className="self-center text-white/50">
             lets get your details

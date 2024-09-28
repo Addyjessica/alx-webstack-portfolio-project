@@ -44,7 +44,7 @@ const Dashboard = () => {
             <img src={logo} alt="" />
           </div>
           <span className="self-center font-montserrat text-xl font-bold">
-            Uniguide
+            StudyStream
           </span>
         </div>
 

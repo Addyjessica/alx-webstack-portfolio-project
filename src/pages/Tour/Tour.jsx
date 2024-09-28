@@ -79,7 +79,7 @@ const TourPage = () => {
             <img src={logo} alt="" />
           </div>
           <span className=" no-underline font-montserrat text-black dark:text-white self-center text-xl font-bold ">
-            uniguide
+            StudyStream
           </span>
         </Link>
       </div>

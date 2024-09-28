@@ -54,7 +54,7 @@ const Form = () => {
     >
       {" "}
       <div className="mx-auto flex text-[34px]">
-        <p className="font-semibold">Sign up to Uniguide</p>
+        <p className="font-semibold">Sign up to StudyStream</p>
       </div>
       <form
         className="overflow-y-none  px-9 py-4 flex flex-col"

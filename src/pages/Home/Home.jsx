@@ -34,10 +34,7 @@ const Home = () => {
               <FlipWords words={words} className={"inline"} />{" "}
             </div>
             <span className="text-lg font-light mb-9 text-black/65 dark:text-white/65">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. In iste,
-              nam voluptates perspiciatis quae placeat est eligendi a quibusdam,
-              non ipsum ex voluptate voluptatum commodi quidem asperiores soluta
-              rem similique!
+              Dream it, have it and live it!!
             </span>
             <PrimaryButton input={"Join"} route={"register"} />{" "}
           </div>

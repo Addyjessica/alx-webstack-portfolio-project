@@ -88,7 +88,7 @@ const LoginBtn = () => {
           </form>
           <div className="text-3xl">
             <span>welcome to</span>{" "}
-            <span className="text-secondary">Uniguide</span>
+            <span className="text-secondary">StudyStream</span>
           </div>
           <div className="modal-action text-white/80 w-full flex flex-col">
             <span className="block self-center text-2xl">Login</span>

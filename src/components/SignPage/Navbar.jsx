@@ -10,7 +10,7 @@ const Navbar = ({ children, route, tour }) => {
           <img src={logo} alt="" />
         </div>
         <span className=" no-underline font-montserrat text-black dark:text-white self-center text-xl font-bold ">
-          uniguide
+          studystream
         </span>
       </Link>
 

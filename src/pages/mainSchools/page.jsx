@@ -21,7 +21,7 @@ const Findschools = () => {
             <img src={logo} alt="" />
           </div>
           <span className=" no-underline font-montserrat dark:text-white text-black self-center text-xl font-bold ">
-            uniguide
+            StudyStream
           </span>
         </Link>
         <div className="flex-auto w-full md:w-[40%]">
